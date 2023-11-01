@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghav07sehgal/infi_ware_task.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raghav07sehgal/infi_ware_task/issues"
+  },
+  "homepage": "https://github.com/raghav07sehgal/infi_ware_task#readme"
 }
